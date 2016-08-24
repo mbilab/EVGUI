@@ -74,6 +74,10 @@
 		+ include/										- some extra twin libraries
 
 ## ref
+### download reference drivers (official website for STM32F4xx)
+  * http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f4-series/stm32f429-439.html?querycriteria=productId=LN1806
+### download twin
+  * https://github.com/cosmos72/twin
 ### project (dropbox paper)
   * https://paper.dropbox.com/doc/Embedded-Graphics-Entry-cVe71Nm0Kk8OLJlN6Gst2
 ### stm32f4 (datasheet)
